@@ -1,4 +1,4 @@
-# Basic-Anti-Recoil
+# Basic-Anti-Recoil ***OPEN AS ADMIN FOR BEST EXPERINCE***
 i made this for r6 but it works on any game read the read me.
 it works by using your dpi 
 when you first open it it will ask for your dpi type it in then it make a txt called dpi.txt and thats where your dpi is stored so if you ever need to change it just open that and change it
